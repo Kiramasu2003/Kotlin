@@ -1,0 +1,1 @@
+https://khan.github.io/kotlin-for-python-developers/#loops#for
